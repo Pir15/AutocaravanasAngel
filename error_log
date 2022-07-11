@@ -1,0 +1,12 @@
+[05-Jul-2022 15:47:14 Europe/Madrid] PHP Notice:  Undefined index: nombre in /home/latienda2/public_html/oculto/contacto.php on line 6
+[05-Jul-2022 15:47:42 Europe/Madrid] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/latienda2/public_html/oculto/contacto.php on line 11
+[05-Jul-2022 15:48:12 Europe/Madrid] PHP Notice:  Undefined index: nombre in /home/latienda2/public_html/oculto/contacto.php on line 6
+[05-Jul-2022 15:49:34 Europe/Madrid] PHP Notice:  Undefined index: nombre in /home/latienda2/public_html/oculto/contacto.php on line 6
+[07-Jul-2022 12:34:20 Europe/Madrid] PHP Parse error:  syntax error, unexpected end of file in /home/latienda2/public_html/oculto/contacto.php on line 112
+[07-Jul-2022 12:34:23 Europe/Madrid] PHP Parse error:  syntax error, unexpected end of file in /home/latienda2/public_html/oculto/contacto.php on line 112
+[07-Jul-2022 12:34:34 Europe/Madrid] PHP Notice:  Undefined index: nombre in /home/latienda2/public_html/oculto/contacto.php on line 93
+[07-Jul-2022 12:34:34 Europe/Madrid] PHP Notice:  Undefined index: tel in /home/latienda2/public_html/oculto/contacto.php on line 93
+[07-Jul-2022 12:34:34 Europe/Madrid] PHP Notice:  Undefined index: asunto in /home/latienda2/public_html/oculto/contacto.php on line 93
+[07-Jul-2022 12:34:34 Europe/Madrid] PHP Notice:  Undefined index: mensaje in /home/latienda2/public_html/oculto/contacto.php on line 93
+[07-Jul-2022 12:38:43 Europe/Madrid] PHP Notice:  Undefined index: asunto in /home/latienda2/public_html/oculto/contacto.php on line 93
+[07-Jul-2022 12:38:43 Europe/Madrid] PHP Notice:  Undefined index: mensaje in /home/latienda2/public_html/oculto/contacto.php on line 93
